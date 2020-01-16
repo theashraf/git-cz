@@ -38,7 +38,7 @@
     "eslint": "4.19.1",
     "eslint-config-mailonline": "9.0.0",
     "husky": "4.0.10",
-    "inquirer": "6.5.2",
+    "inquirer": "7.0.3",
     "inquirer-list-search-prompt": "1.0.2",
     "minimist": "1.2.0",
     "mocha": "6.2.2",

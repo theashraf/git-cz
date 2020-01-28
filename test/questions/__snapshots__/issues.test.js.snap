@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+Object {
+  "message": "Issues this commit closes, e.g #123:",
+  "name": "issues",
+  "type": "input",
+}
+`;

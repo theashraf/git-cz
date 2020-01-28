@@ -1,3 +1,6 @@
 {
-    "extends": "mailonline/mocha"
+    "extends": "mailonline/mocha",
+    "env": {
+      "jest": true
+    }
   }
